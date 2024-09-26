@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLPI.Core", "GLPI.Core\GLPI.Core.csproj", "{60717E88-30D9-411A-B5BD-83A478F198B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLPI.Api", "GLPI.Api\GLPI.Api.csproj", "{A023855B-FDE2-41E7-97BE-88912C30903E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60717E88-30D9-411A-B5BD-83A478F198B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60717E88-30D9-411A-B5BD-83A478F198B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60717E88-30D9-411A-B5BD-83A478F198B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60717E88-30D9-411A-B5BD-83A478F198B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A023855B-FDE2-41E7-97BE-88912C30903E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A023855B-FDE2-41E7-97BE-88912C30903E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A023855B-FDE2-41E7-97BE-88912C30903E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A023855B-FDE2-41E7-97BE-88912C30903E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

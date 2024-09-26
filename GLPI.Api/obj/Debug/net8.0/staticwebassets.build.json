@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "prc/JYE5fSHffa4FnV7bZYKHsm1jCtgjPahyVAeoF6w=",
+  "Source": "GLPI.Api",
+  "BasePath": "_content/GLPI.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
