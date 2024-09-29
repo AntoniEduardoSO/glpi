@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GLPI.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8781308174f1a8327dbdc8889ed262311fb661b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6656b119fc8cba08e303a19d4e9b07efdcd89b29")]
 [assembly: System.Reflection.AssemblyProductAttribute("GLPI.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GLPI.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
