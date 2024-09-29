@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\build\GLPI.Api.props" />
+  <Import Project="../build/GLPI.Api.props" />
 </Project>

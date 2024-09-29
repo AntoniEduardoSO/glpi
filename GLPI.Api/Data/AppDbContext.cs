@@ -8,7 +8,7 @@ namespace GLPI.Api.Data;
     AppDbContext eh focado apenas em criar as tabelas e o schema principal do nosso sistema.
     Porem, precisamos nos ater com o tipo de DBContext.
 */
-public class AppDbContext : DbContext
+public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
 {
     public DbSet<Ticket> Tickets {get;set;} = null!;
     public DbSet<Category> Categories {get;set;} = null!;

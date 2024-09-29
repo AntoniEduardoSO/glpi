@@ -17,7 +17,7 @@ public class TicketMapping : IEntityTypeConfiguration<Ticket>
     */
     public void Configure(EntityTypeBuilder<Ticket> builder)
     {
-        builder.ToTable("Category"); // Nome da tabela eh "Category"
+        builder.ToTable("Ticket"); // Nome da tabela eh "Category"
 
         builder.HasKey(x => x.Id); // Primary Key eh o Id, utilizando um snippet
 
@@ -41,5 +41,17 @@ public class TicketMapping : IEntityTypeConfiguration<Ticket>
 
         builder.Property(x => x.UpdatedAt)
             .IsRequired(false);
+
+        builder.HasOne(x => x.Category)
+                        .WithMany()
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+        builder.HasOne(x => x.Status)
+                        .WithMany()
+                        .HasForeignKey("StatusId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
     }
 }

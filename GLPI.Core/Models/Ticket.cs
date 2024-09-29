@@ -7,12 +7,12 @@ public class Ticket
     public long CategoryId { get; set; }
     public Category  Category{ get; set; } = null!;
 
-    public int StatusId { get; set; }
+    public long StatusId { get; set; }
     public Status Status { get; set; } = null!;
 
     public DateTime CreatedAt { get; set; } = DateTime.Now;
 
-    public DateTime UpdatedAt { get; set; }
+    public DateTime? UpdatedAt { get; set; }
 
     public string UserId { get; set; } = string.Empty;
 }

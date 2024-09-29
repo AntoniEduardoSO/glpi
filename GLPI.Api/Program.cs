@@ -1,11 +1,7 @@
-
-
 using GLPI.Api.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
-
-
 
 var cnnStr = builder
     .Configuration // Ve no configs do appsettings.json, essencial para colocar origens de certos arquivos e bancos.

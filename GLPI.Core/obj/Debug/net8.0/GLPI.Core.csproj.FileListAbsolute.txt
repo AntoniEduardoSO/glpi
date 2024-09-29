@@ -1,0 +1,12 @@
+/Users/katochi/Desktop/Dev/glpi/GLPI.Core/bin/Debug/net8.0/GLPI.Core.deps.json
+/Users/katochi/Desktop/Dev/glpi/GLPI.Core/bin/Debug/net8.0/GLPI.Core.dll
+/Users/katochi/Desktop/Dev/glpi/GLPI.Core/bin/Debug/net8.0/GLPI.Core.pdb
+/Users/katochi/Desktop/Dev/glpi/GLPI.Core/obj/Debug/net8.0/GLPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katochi/Desktop/Dev/glpi/GLPI.Core/obj/Debug/net8.0/GLPI.Core.AssemblyInfoInputs.cache
+/Users/katochi/Desktop/Dev/glpi/GLPI.Core/obj/Debug/net8.0/GLPI.Core.AssemblyInfo.cs
+/Users/katochi/Desktop/Dev/glpi/GLPI.Core/obj/Debug/net8.0/GLPI.Core.csproj.CoreCompileInputs.cache
+/Users/katochi/Desktop/Dev/glpi/GLPI.Core/obj/Debug/net8.0/GLPI.Core.sourcelink.json
+/Users/katochi/Desktop/Dev/glpi/GLPI.Core/obj/Debug/net8.0/GLPI.Core.dll
+/Users/katochi/Desktop/Dev/glpi/GLPI.Core/obj/Debug/net8.0/refint/GLPI.Core.dll
+/Users/katochi/Desktop/Dev/glpi/GLPI.Core/obj/Debug/net8.0/GLPI.Core.pdb
+/Users/katochi/Desktop/Dev/glpi/GLPI.Core/obj/Debug/net8.0/ref/GLPI.Core.dll
