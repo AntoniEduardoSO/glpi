@@ -4554,19 +4554,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/katochi/.nuget/packages/": {}
+    "C:\\Users\\HailK\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/katochi/Desktop/Dev/glpi/GLPI.Api/GLPI.Api.csproj",
+      "projectUniqueName": "D:\\Dev\\GLPI\\glpi.api\\GLPI.Api.csproj",
       "projectName": "GLPI.Api",
-      "projectPath": "/Users/katochi/Desktop/Dev/glpi/GLPI.Api/GLPI.Api.csproj",
-      "packagesPath": "/Users/katochi/.nuget/packages/",
-      "outputPath": "/Users/katochi/Desktop/Dev/glpi/GLPI.Api/obj/",
+      "projectPath": "D:\\Dev\\GLPI\\glpi.api\\GLPI.Api.csproj",
+      "packagesPath": "C:\\Users\\HailK\\.nuget\\packages\\",
+      "outputPath": "D:\\Dev\\GLPI\\glpi.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/katochi/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\HailK\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -4578,8 +4578,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/katochi/Desktop/Dev/glpi/GLPI.Core/GLPI.Core.csproj": {
-              "projectPath": "/Users/katochi/Desktop/Dev/glpi/GLPI.Core/GLPI.Core.csproj"
+            "D:\\Dev\\GLPI\\GLPI.Core\\GLPI.Core.csproj": {
+              "projectPath": "D:\\Dev\\GLPI\\GLPI.Core\\GLPI.Core.csproj"
             }
           }
         }
@@ -4637,7 +4637,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
