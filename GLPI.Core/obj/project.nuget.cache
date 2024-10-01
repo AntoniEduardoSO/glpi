@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0ZGO7eY2fkvprniNpc7L4QFF5D+mhF+cGjRdy3n4bcqbM0HJVreY5ZiF+BZB3MMk1fxoJX8rAqpIS4VqtkTEgA==",
+  "dgSpecHash": "6m1FTIV7R3Uz0R9VbadroVnSNlAsg2uKtmB3zvaornrk/4+oZ2PETa61SaRO13gBaEg64CliSIFeMCcsBqWQaw==",
   "success": true,
-  "projectFilePath": "/Users/katochi/Desktop/Dev/glpi/GLPI.Core/GLPI.Core.csproj",
+  "projectFilePath": "D:\\Dev\\GLPI\\glpi\\GLPI.Core\\GLPI.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

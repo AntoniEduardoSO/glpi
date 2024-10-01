@@ -6,7 +6,7 @@ public class Response<TData>
     private const int DEFAULT_CODE = 200;
 
     [JsonConstructor]
-    public Response() => _code = DEFAULT_CODE;
+    public Response() => _code = Configuration.DefaultStatusCode;
     
     public Response(
         TData? data,

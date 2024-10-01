@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GLPI.Core
-build_property.ProjectDir = /Users/katochi/Desktop/Dev/glpi/GLPI.Core/
+build_property.ProjectDir = D:\Dev\GLPI\glpi\GLPI.Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

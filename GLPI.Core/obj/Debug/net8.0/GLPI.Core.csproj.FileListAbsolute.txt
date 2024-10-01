@@ -10,3 +10,15 @@
 /Users/katochi/Desktop/Dev/glpi/GLPI.Core/obj/Debug/net8.0/refint/GLPI.Core.dll
 /Users/katochi/Desktop/Dev/glpi/GLPI.Core/obj/Debug/net8.0/GLPI.Core.pdb
 /Users/katochi/Desktop/Dev/glpi/GLPI.Core/obj/Debug/net8.0/ref/GLPI.Core.dll
+D:\Dev\GLPI\glpi\GLPI.Core\bin\Debug\net8.0\GLPI.Core.deps.json
+D:\Dev\GLPI\glpi\GLPI.Core\bin\Debug\net8.0\GLPI.Core.dll
+D:\Dev\GLPI\glpi\GLPI.Core\bin\Debug\net8.0\GLPI.Core.pdb
+D:\Dev\GLPI\glpi\GLPI.Core\obj\Debug\net8.0\GLPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\GLPI\glpi\GLPI.Core\obj\Debug\net8.0\GLPI.Core.AssemblyInfoInputs.cache
+D:\Dev\GLPI\glpi\GLPI.Core\obj\Debug\net8.0\GLPI.Core.AssemblyInfo.cs
+D:\Dev\GLPI\glpi\GLPI.Core\obj\Debug\net8.0\GLPI.Core.csproj.CoreCompileInputs.cache
+D:\Dev\GLPI\glpi\GLPI.Core\obj\Debug\net8.0\GLPI.Core.sourcelink.json
+D:\Dev\GLPI\glpi\GLPI.Core\obj\Debug\net8.0\GLPI.Core.dll
+D:\Dev\GLPI\glpi\GLPI.Core\obj\Debug\net8.0\refint\GLPI.Core.dll
+D:\Dev\GLPI\glpi\GLPI.Core\obj\Debug\net8.0\GLPI.Core.pdb
+D:\Dev\GLPI\glpi\GLPI.Core\obj\Debug\net8.0\ref\GLPI.Core.dll
